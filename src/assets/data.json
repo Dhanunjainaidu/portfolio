@@ -1,0 +1,135 @@
+{
+  "personal_info": {
+    "name": "Dhanunjainaidu Meesala",
+    "phone": "9392885883",
+    "email": "lakshmidhanunjainaidu.m@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/dhanunjainaidu-meesala-9b941b222/",
+    "github": "https://github.com/Dhanunjainaidu",
+    "location": "Vizianagaram, Andhra Pradesh, India"
+  },
+  "summary": "Results-driven Full Stack Software Development Engineer with hands-on experience in ReactJS, TypeScript, Flask, and cloud technologies. Proven ability to build scalable solutions, optimize backend services, and streamline internal operations. Seeking to leverage strong problem-solving skills and full-stack expertise in a challenging SDE role.",
+  "education": [
+    {
+      "institution": "National Institute of Technology, Agartala",
+      "degree": "Bachelor of Technology in Electronics and Communication Engineering",
+      "duration": "2020 – 2024",
+      "gpa": "8.47"
+    },
+    {
+      "institution": "Bhashyam Junior College",
+      "degree": "Intermediate (XII)- BIEAP",
+      "duration": "2018-2020",
+      "gpa": "9.53"
+    },
+    {
+      "institution": "Bhashyam High School",
+      "degree": "High School-SSC",
+      "duration": "2017-2018",
+      "gpa": "9.8"
+    }
+  ],
+  "experience": [
+    {
+      "company": "JTR High Yields Agro Pvt Ltd",
+      "role": "Software Development Engineer 1",
+      "duration": "06/2025 – Present",
+      "technologies": ["ReactJS", "TypeScript", "Cloudflare", "REST APIs"],
+      "responsibilities": [
+        "Building full-stack solutions from the ground up for internal operations, including an inventory dashboard and e-commerce integration system.",
+        "Developing backend services by integrating data from multiple third-party APIs and cloud databases, transforming and streamlining them for seamless internal use.",
+        "Implementing deployment pipelines and edge computing solutions using Cloudflare Workers for real-time system performance."
+      ]
+    },
+    {
+      "company": "Corundum Technologies Pvt Ltd",
+      "role": "Full Stack Developer",
+      "duration": "09/2024 – 02/2025",
+      "technologies": ["ReactJS", "Flask", "MongoDB", "PostgreSQL", "LDAP", "Socket.IO"],
+      "responsibilities": [
+        "Developed internal tools such as a ticketing system, criminal intelligence dashboards, and analytics portals by handling both frontend and backend development.",
+        "Integrated chat systems and ticket-based analytics tailored to various roles; implemented secure backend authentication using LDAP and API testing with Postman.",
+        "Led the development of a financial analysis module to detect suspicious transactions and unify intelligence data across law enforcement systems."
+      ]
+    }
+  ],
+  
+  "skills": {
+    "languages": [
+      { "name": "Python", "level": "Experienced" },
+      { "name": "JavaScript", "level": "Experienced" },
+      { "name": "TypeScript", "level": "Intermediate" },
+      { "name": "C++", "level": "Intermediate" },
+      { "name": "C", "level": "Intermediate" },
+      { "name": "SQL", "level": "Experienced" }
+    ],
+    "developer_tools": [
+      { "name": "Postman", "level": "Experienced" },
+      { "name": "VS Code", "level": "Experienced" },
+      { "name": "GIT", "level": "Experienced" },
+      { "name": "Cloudflare Workers", "level": "Intermediate" }
+    ],
+    "cs_fundamentals": [
+      { "name": "Data Structures", "level": "Experienced" },
+      { "name": "Algorithms", "level": "Experienced" },
+      { "name": "OOPS", "level": "Experienced" },
+      { "name": "DBMS", "level": "Experienced" },
+      { "name": "Machine learning", "level": "Intermediate" },
+      { "name": "OS(Basic)", "level": "Beginner" }
+    ],
+    "web_development": [
+      { "name": "HTML", "level": "Experienced" },
+      { "name": "CSS", "level": "Experienced" },
+      { "name": "JavaScript", "level": "Experienced" },
+      { "name": "ReactJs", "level": "Experienced" },
+      { "name": "Bootstrap", "level": "Intermediate" },
+      { "name": "Flask", "level": "Intermediate" },
+      { "name": "Mongodb", "level": "Intermediate" },
+      { "name": "PostgreSQL", "level": "Intermediate" },
+      { "name": "Rest API's", "level": "Experienced" }
+    ]
+  },
+
+
+  "projects": [
+    {
+      "name": "Attendance and Task Management System",
+      "technologies": ["React", "Redux", "Flask", "MongoDB", "Socket.IO"],
+      "duration": "01/2025",
+      "url": "#",
+      "description": [
+        "Developed a full-stack app with role-based access (Admins, Managers, Employees) for secure attendance and task handling.",
+        "Implemented real-time chat and notifications using Socket.IO (React.js + Flask) to enhance team collaboration and responsiveness.",
+        "Used React-Window to virtualize large datasets, improving front-end performance.",
+        "Designed dashboards with interactive charts for attendance trends and task analytics."
+      ]
+    },
+    {
+      "name": "Score Alerts",
+      "technologies": ["Python", "BeautifulSoup", "win10toast"],
+      "duration": "05/2023",
+      "url": "https://github.com/Dhanunjainaidu/LIVE_SCORE",
+      "description": [
+        "Scraped live cricket match data from ESPN Cricinfo using BeautifulSoup.",
+        "Integrated Windows Toast notifications via win10toast every 30 seconds.",
+        "Enabled user input to track custom matches and receive personalized alerts."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Python",
+      "issuer": "Udemy",
+      "date": null
+    },
+    {
+      "name": "C++",
+      "issuer": "Udemy",
+      "date": null
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "issuer": "Udemy",
+      "date": null
+    }
+  ]
+}

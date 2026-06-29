@@ -5,14 +5,15 @@
     "email": "lakshmidhanunjainaidu.m@gmail.com",
     "linkedin": "https://www.linkedin.com/in/dhanunjainaidu-meesala-9b941b222/",
     "github": "https://github.com/Dhanunjainaidu",
+    "portfolio": "https://dhanunjainaidu.github.io/portfolio/",
     "location": "Vizianagaram, Andhra Pradesh, India"
   },
-  "summary": "Results-driven Full Stack Software Development Engineer with hands-on experience in ReactJS, TypeScript, Flask, and cloud technologies. Proven ability to build scalable solutions, optimize backend services, and streamline internal operations. Seeking to leverage strong problem-solving skills and full-stack expertise in a challenging SDE role.",
+  "summary": "Software Development Engineer with 1.5+ years of experience building end-to-end full-stack applications using React.js, TypeScript, Python, Node.js, PostgreSQL, and cloud-native technologies. Experienced in developing reusable UI components, responsive interfaces, REST APIs, distributed backend services, workflow automation, AI-assisted solutions, and scalable applications.",
   "education": [
     {
       "institution": "National Institute of Technology, Agartala",
       "degree": "Bachelor of Technology in Electronics and Communication Engineering",
-      "duration": "2020 – 2024",
+      "duration": "2020 \u2013 2024",
       "gpa": "8.47"
     },
     {
@@ -32,86 +33,215 @@
     {
       "company": "JTR High Yields Agro Pvt Ltd",
       "role": "Software Development Engineer 1",
-      "duration": "06/2025 – Present",
-      "technologies": ["ReactJS", "TypeScript", "Cloudflare", "REST APIs"],
+      "duration": "06/2025 \u2013 Present",
+      "technologies": [
+        "ReactJS",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "PostgreSQL",
+        "Cloudflare Workers",
+        "Cloudflare KV",
+        "REST APIs",
+        "JWT",
+        "RBAC",
+        "OpenAI",
+        "OCR",
+        "Durable Objects",
+        "Durable Workflows"
+      ],
       "responsibilities": [
-        "Building full-stack solutions from the ground up for internal operations, including an inventory dashboard and e-commerce integration system.",
-        "Developing backend services by integrating data from multiple third-party APIs and cloud databases, transforming and streamlining them for seamless internal use.",
-        "Implementing deployment pipelines and edge computing solutions using Cloudflare Workers for real-time system performance."
+        "Developed reusable React components and responsive administrative interfaces supporting multiple business workflows.",
+        "Optimized frontend performance using lazy loading, memoization, background file uploads, efficient state management, and caching to improve user experience.",
+        "Integrated React applications with REST APIs, authentication, and asynchronous backend services.",
+        "Designed distributed logistics and vendor management services integrating third-party shipment APIs, reducing response latency by approximately 75% through Cloudflare KV caching and optimized backend workflows.",
+        "Architected event-driven workflow orchestration using asynchronous processing, durable workflows, distributed locking, and retry mechanisms.",
+        "Engineered secure multi-tenant backend services with PostgreSQL advisory locks, transactional ledgers, JWT authentication, RBAC, dependency injection, and RESTful APIs.",
+        "Developed AI-powered invoice processing pipelines integrating OCR, OpenAI, vendor matching, transactional persistence, and rollback-safe artifact finalization."
       ]
     },
     {
       "company": "Corundum Technologies Pvt Ltd",
       "role": "Full Stack Developer",
-      "duration": "09/2024 – 02/2025",
-      "technologies": ["ReactJS", "Flask", "MongoDB", "PostgreSQL", "LDAP", "Socket.IO"],
+      "duration": "09/2024 \u2013 05/2025",
+      "technologies": [
+        "ReactJS",
+        "TypeScript",
+        "Flask",
+        "Python",
+        "MongoDB",
+        "PostgreSQL",
+        "Socket.IO",
+        "LDAP",
+        "REST APIs"
+      ],
       "responsibilities": [
-        "Developed internal tools such as a ticketing system, criminal intelligence dashboards, and analytics portals by handling both frontend and backend development.",
-        "Integrated chat systems and ticket-based analytics tailored to various roles; implemented secure backend authentication using LDAP and API testing with Postman.",
-        "Led the development of a financial analysis module to detect suspicious transactions and unify intelligence data across law enforcement systems."
+        "Led end-to-end development of a ticketing and inventory management platform used by 20+ internal users, reducing issue resolution time by 40%.",
+        "Designed responsive React interfaces with reusable UI components, dashboards, and real-time updates using Socket.IO.",
+        "Developed RESTful backend services supporting inventory management, approvals, analytics, and operational workflows.",
+        "Implemented LDAP authentication, role-based authorization, and secure enterprise login flows.",
+        "Built workflow automation modules reducing manual effort by approximately 60%.",
+        "Collaborated with cross-functional teams to design APIs, optimize database queries, and deliver scalable full-stack features."
       ]
     }
   ],
-  
   "skills": {
     "languages": [
-      { "name": "Python", "level": "Experienced" },
-      { "name": "JavaScript", "level": "Experienced" },
-      { "name": "TypeScript", "level": "Intermediate" },
-      { "name": "C++", "level": "Intermediate" },
-      { "name": "C", "level": "Intermediate" },
-      { "name": "SQL", "level": "Experienced" }
+      {
+        "name": "TypeScript",
+        "level": "Experienced"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Experienced"
+      },
+      {
+        "name": "Python",
+        "level": "Experienced"
+      },
+      {
+        "name": "SQL",
+        "level": "Experienced"
+      },
+      {
+        "name": "C++",
+        "level": "Intermediate"
+      },
+      {
+        "name": "C",
+        "level": "Intermediate"
+      }
     ],
     "developer_tools": [
-      { "name": "Postman", "level": "Experienced" },
-      { "name": "VS Code", "level": "Experienced" },
-      { "name": "GIT", "level": "Experienced" },
-      { "name": "Cloudflare Workers", "level": "Intermediate" }
+      {
+        "name": "Git",
+        "level": "Experienced"
+      },
+      {
+        "name": "Postman",
+        "level": "Experienced"
+      },
+      {
+        "name": "VS Code",
+        "level": "Experienced"
+      },
+      {
+        "name": "Cloudflare Workers",
+        "level": "Experienced"
+      },
+      {
+        "name": "Cloudflare KV",
+        "level": "Experienced"
+      }
     ],
     "cs_fundamentals": [
-      { "name": "Data Structures", "level": "Experienced" },
-      { "name": "Algorithms", "level": "Experienced" },
-      { "name": "OOPS", "level": "Experienced" },
-      { "name": "DBMS", "level": "Experienced" },
-      { "name": "Machine learning", "level": "Intermediate" },
-      { "name": "OS(Basic)", "level": "Beginner" }
+      {
+        "name": "Data Structures",
+        "level": "Experienced"
+      },
+      {
+        "name": "Algorithms",
+        "level": "Experienced"
+      },
+      {
+        "name": "OOPS",
+        "level": "Experienced"
+      },
+      {
+        "name": "DBMS",
+        "level": "Experienced"
+      },
+      {
+        "name": "System Design",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Distributed Systems",
+        "level": "Intermediate"
+      }
     ],
     "web_development": [
-      { "name": "HTML", "level": "Experienced" },
-      { "name": "CSS", "level": "Experienced" },
-      { "name": "JavaScript", "level": "Experienced" },
-      { "name": "ReactJs", "level": "Experienced" },
-      { "name": "Bootstrap", "level": "Intermediate" },
-      { "name": "Flask", "level": "Intermediate" },
-      { "name": "Mongodb", "level": "Intermediate" },
-      { "name": "PostgreSQL", "level": "Intermediate" },
-      { "name": "Rest API's", "level": "Experienced" }
+      {
+        "name": "ReactJS",
+        "level": "Experienced"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Experienced"
+      },
+      {
+        "name": "Redux",
+        "level": "Intermediate"
+      },
+      {
+        "name": "HTML",
+        "level": "Experienced"
+      },
+      {
+        "name": "CSS",
+        "level": "Experienced"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "Experienced"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Node.js",
+        "level": "Experienced"
+      },
+      {
+        "name": "Flask",
+        "level": "Experienced"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "Experienced"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Intermediate"
+      },
+      {
+        "name": "REST APIs",
+        "level": "Experienced"
+      }
     ]
   },
-
-
   "projects": [
     {
       "name": "Attendance and Task Management System",
-      "technologies": ["React", "Redux", "Flask", "MongoDB", "Socket.IO"],
+      "technologies": [
+        "React",
+        "Redux",
+        "Flask",
+        "MongoDB",
+        "Socket.IO"
+      ],
       "duration": "01/2025",
       "url": "#",
       "description": [
-        "Developed a full-stack app with role-based access (Admins, Managers, Employees) for secure attendance and task handling.",
-        "Implemented real-time chat and notifications using Socket.IO (React.js + Flask) to enhance team collaboration and responsiveness.",
-        "Used React-Window to virtualize large datasets, improving front-end performance.",
-        "Designed dashboards with interactive charts for attendance trends and task analytics."
+        "Developed a full-stack application with role-based access for attendance and task management.",
+        "Implemented real-time chat and notifications using Socket.IO.",
+        "Optimized large dataset rendering using React Window virtualization.",
+        "Designed dashboards with interactive analytics and reporting."
       ]
     },
     {
-      "name": "Score Alerts",
-      "technologies": ["Python", "BeautifulSoup", "win10toast"],
-      "duration": "05/2023",
-      "url": "https://github.com/Dhanunjainaidu/LIVE_SCORE",
+      "name": "Professional Portfolio",
+      "technologies": [
+        "ReactJS",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "duration": "05/2025",
+      "url": "https://dhanunjainaidu.github.io/portfolio/",
       "description": [
-        "Scraped live cricket match data from ESPN Cricinfo using BeautifulSoup.",
-        "Integrated Windows Toast notifications via win10toast every 30 seconds.",
-        "Enabled user input to track custom matches and receive personalized alerts."
+        "Developed a responsive portfolio website with optimized performance and accessibility."
       ]
     }
   ],

@@ -8,7 +8,7 @@ import Footer from "./components/Footer.jsx";
 import { ThemeProvider } from "./context/ThemeContext.jsx";
 import  ScrollSpyNav  from "./components/ScrollSpyNav.jsx";
 import "./assets/bg-stripes.css";
-import AboutMe from "./components/aboutme.jsx";
+import AboutMe from "./components/AboutMe.jsx";
 
 const App = () => (
   <ThemeProvider>
